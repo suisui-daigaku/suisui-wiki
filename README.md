@@ -43,6 +43,5 @@ Python
 
 这样看过什么书都一目了然。
 
-![image](https://github.com/suisui-daigaku/suisui-wiki/assets/20805657/6a30a027-ca7f-4cc8-beeb-c2df6d4ce1b9)
 
 
